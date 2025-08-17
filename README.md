@@ -2,7 +2,7 @@
 
 ## Demo
 Watch the walkthrough here:
-<iframe src="https://drive.google.com/file/d/1olCj6TbSXh3wK5V8vSFTvZJso2eKGuSP/preview" width="640" height="480" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1olCj6TbSXh3wK5V8vSFTvZJso2eKGuSP
 
 ## Overview
 React app that provides a streaming-style UI (home slider, banners, cards) and plays videos with captions via Plyr. Uses React Router for navigation and fetches data from the Aniflix backend.
